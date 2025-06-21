@@ -1,6 +1,6 @@
-# Holy Mother of Mercy Hospital Website
+# Allen Mondejar Portfolio
 
-This is the official website I developed for Holy Mother of Mercy Hospital. It provides information about hospital services, contact details, and announcements.
+This is the official portfolio I developed . It provides information about me.
 
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-LIVE-green?style=for-the-badge)](https://yourusername.github.io/hmmh-website)
 
